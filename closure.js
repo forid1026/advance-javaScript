@@ -13,3 +13,8 @@ console.log(clock1());
 
 const clock2 = stopWatch();
 console.log(clock2());
+
+
+
+
+
