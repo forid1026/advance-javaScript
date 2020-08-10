@@ -27,4 +27,4 @@ const toBigger = students.filter(x => x.id > 26);
 console.log(toBigger);
 
 const toFind = students.find(s => s.id > 38);
-console.log(toFind)
+console.log(toFind);
